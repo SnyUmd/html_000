@@ -26,7 +26,7 @@
                 Grid.Row="1" 
                 Grid.Column="1" 
                 VerticalAlignment="Center"
-                FontSize="15"
+                FontSize="13"
                 x:Name="TXB_FileName"
             />
         

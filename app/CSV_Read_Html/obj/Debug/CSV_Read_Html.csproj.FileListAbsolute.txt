@@ -13,3 +13,6 @@ D:\_git\html\html_000\app\CSV_Read_Html\obj\Debug\CSV_Read_Html.csproj.GenerateR
 D:\_git\html\html_000\app\CSV_Read_Html\obj\Debug\CSV_Read_Html.csproj.CoreCompileInputs.cache
 D:\_git\html\html_000\app\CSV_Read_Html\obj\Debug\CSV_Read_Html.exe
 D:\_git\html\html_000\app\CSV_Read_Html\obj\Debug\CSV_Read_Html.pdb
+D:\_git\html\html_000\app\CSV_Read_Html\bin\Debug\Ctrl_Dll.dll
+D:\_git\html\html_000\app\CSV_Read_Html\bin\Debug\Ctrl_Dll.pdb
+D:\_git\html\html_000\app\CSV_Read_Html\obj\Debug\CSV_Read_Html.csproj.CopyComplete
