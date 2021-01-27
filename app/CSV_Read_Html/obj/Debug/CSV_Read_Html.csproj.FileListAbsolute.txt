@@ -1,0 +1,15 @@
+D:\_git\html\html_000\app\CSV_Read_Html\bin\Debug\CSV_Read_Html.exe.config
+D:\_git\html\html_000\app\CSV_Read_Html\bin\Debug\CSV_Read_Html.exe
+D:\_git\html\html_000\app\CSV_Read_Html\bin\Debug\CSV_Read_Html.pdb
+D:\_git\html\html_000\app\CSV_Read_Html\obj\Debug\CSV_Read_Html.csprojAssemblyReference.cache
+D:\_git\html\html_000\app\CSV_Read_Html\obj\Debug\MainWindow.g.cs
+D:\_git\html\html_000\app\CSV_Read_Html\obj\Debug\App.g.cs
+D:\_git\html\html_000\app\CSV_Read_Html\obj\Debug\CSV_Read_Html_MarkupCompile.cache
+D:\_git\html\html_000\app\CSV_Read_Html\obj\Debug\CSV_Read_Html_MarkupCompile.lref
+D:\_git\html\html_000\app\CSV_Read_Html\obj\Debug\MainWindow.baml
+D:\_git\html\html_000\app\CSV_Read_Html\obj\Debug\CSV_Read_Html.g.resources
+D:\_git\html\html_000\app\CSV_Read_Html\obj\Debug\CSV_Read_Html.Properties.Resources.resources
+D:\_git\html\html_000\app\CSV_Read_Html\obj\Debug\CSV_Read_Html.csproj.GenerateResource.cache
+D:\_git\html\html_000\app\CSV_Read_Html\obj\Debug\CSV_Read_Html.csproj.CoreCompileInputs.cache
+D:\_git\html\html_000\app\CSV_Read_Html\obj\Debug\CSV_Read_Html.exe
+D:\_git\html\html_000\app\CSV_Read_Html\obj\Debug\CSV_Read_Html.pdb

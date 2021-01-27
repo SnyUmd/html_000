@@ -1,0 +1,55 @@
+﻿<Window x:Class="CSV_Read_Html.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CSV_Read_Html"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="125" Width="400">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="5"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="5"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="5"/>
+                <ColumnDefinition Width="4*"/>
+                <ColumnDefinition Width="5"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <TextBox 
+                Grid.Row="1" 
+                Grid.Column="1" 
+                VerticalAlignment="Center"
+                FontSize="15"
+                x:Name="TXB_FileName"
+            />
+        
+            <Button 
+                Grid.Row="1" 
+                Grid.Column="3" 
+                x:Name="BTN_FileSelect"
+                Content="File select"
+                Margin="5,5,5,5"
+                Click="Click_BTN_FileRead"
+            />
+        </Grid>
+
+        <Grid Grid.Row="3">
+            <Button
+                x:Name="BTN_Run"
+                Content="Run"
+                VerticalAlignment="Center"
+                Margin="5,0,5,5"
+                Click="Click_BTN_Run"
+            />
+        </Grid>
+        
+    </Grid>
+
+</Window>
